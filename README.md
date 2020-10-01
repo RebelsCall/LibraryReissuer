@@ -21,5 +21,7 @@ Enter Directory
 run python file
 `python3 reissue.py`
 
+for linux add shebang line in topmost line of file `#!/usr/bin/env python3`
+
 ## Scope
 * to make chronjob so that python script runs automatically once a day.
